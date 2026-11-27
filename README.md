@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Eduardo
 
-<!--
-**EduardoPedrosa06/EduardoPedrosa06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at CESAR School, focused on back-end and full stack development.
+I like understanding how systems work under the hood — data, APIs and the logic connecting them.
 
-Here are some ideas to get you started:
+### Currently building
+- ### Projects
+- **[SentinelaLog](https://github.com/joaofilipe23/Repositorio-do-Projeto-SentinelaLog)** — Access monitoring system for school computer labs that scores each login as normal, suspicious or critical and explains why. Role-based permissions, PBKDF2 password hashing and tamper-evident audit logs. *Python (standard library) · CSV*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning
+- C
+- Pandas
+- Relational databases and SQL
+- Designing REST APIs
+
+### Stack
+**Back-end:** C · NetUS · ASP.NET Core
+**Front-end:** HTML · CSS · JavaScript
+**Tools:** Git · VS Code ·
+
+### Contact
+eduardopedrosamiranda@gmail.com · https://www.linkedin.com/in/eduardo-pedrosa-miranda-3baa12435/
