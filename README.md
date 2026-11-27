@@ -14,9 +14,9 @@ I like understanding how systems work under the hood — data, APIs and the logi
 - Designing REST APIs
 
 ### Stack
-**Back-end:** C · NetUS · ASP.NET Core ·
-**Front-end:** HTML · CSS · JavaScript ·
-**Tools:** Git · VS Code ·
+**Back-end:** C# · .NET · ASP.NET Core<br>
+**Front-end:** HTML · CSS · JavaScript<br>
+**Tools:** Git · VS Code
 
 ### Contact
 eduardopedrosamiranda@gmail.com · https://www.linkedin.com/in/eduardo-pedrosa-miranda-3baa12435/
