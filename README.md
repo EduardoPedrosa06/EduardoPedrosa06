@@ -14,8 +14,8 @@ I like understanding how systems work under the hood — data, APIs and the logi
 - Designing REST APIs
 
 ### Stack
-**Back-end:** C · NetUS · ASP.NET Core
-**Front-end:** HTML · CSS · JavaScript
+**Back-end:** C · NetUS · ASP.NET Core ·
+**Front-end:** HTML · CSS · JavaScript ·
 **Tools:** Git · VS Code ·
 
 ### Contact
